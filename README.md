@@ -1,2 +1,2 @@
 # Indic-fake-news-datasets
-Indic languages fake news data
+It contiand Malayalam and Telugu sample fake news datasets. If you want full dataset pull a request to me.
